@@ -1,0 +1,3 @@
+# Tested dependency for scripts/pdf_preflight.py; Python 3.10+.
+# PNG rendering additionally uses Poppler's pdftoppm executable.
+pdfplumber==0.11.9

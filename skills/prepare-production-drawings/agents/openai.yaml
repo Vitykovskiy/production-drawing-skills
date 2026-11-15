@@ -1,0 +1,4 @@
+interface:
+  display_name: "Рабочие чертежи из CAD"
+  short_description: "Лаконичные листы для изготовления и сборки"
+  default_prompt: "Используй $prepare-production-drawings для выпуска понятного рабочего комплекта из этой 3D-модели."
